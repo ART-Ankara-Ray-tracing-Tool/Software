@@ -5,3 +5,7 @@ ART is a ray-tracing tool written in MATLAB. In ray tracing algorithms, analysis
 ART is a tool written in MATLAB, it can run on all operating systems that run MATLAB. Parallel Computing Toolbox must be installed in MATLAB to perform parallel processing.
 
 ## Installation
+You must have MATLAB installed on your pc.
+Download the repository and unzip the file and move it to the folder where you created it.
+
+## Usage of ART
