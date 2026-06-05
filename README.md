@@ -1,5 +1,4 @@
 # ART (Ankara Ray-tracing Tool)
-<<<<<<< HEAD
 ART is a ray-tracing tool written in MATLAB. In ray tracing algorithms, analysis and forecast atmospheric parameters from NWP models can be treated as input data, and the resultant tropospheric delay signals in radio wave measurements can be reduced to a very large extent from the measurements prior to parameter estimation. This tool provide as an output 2D ray-tracing tropospheric delays and some parameters.
 
 ## Software Requirements
@@ -56,5 +55,3 @@ Before starting the analyses, it is necessary to mention the folder definitions:
 3. Run the *readnetcdf.m* function in the *INPUT/NETCDF/* file path. This function creates a .mat file under the *INPUT/MAT/* folder.
 4. Run the *run.m* function in the main directory. If you want to use parallel processing, run the *run_parallel.m* function.
 5. The results are located in text files with the *".art"* extension under the *OUTPUT* folder.
-=======
->>>>>>> 02456db787d9fd3febdb22f224456327c97e17a8
